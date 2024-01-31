@@ -1,2 +1,7 @@
 Hi Swetha Pinnamaneni
+<<<<<<< HEAD
 My 
+=======
+My project is ICICIPru Life
+this is third line
+>>>>>>> 78e5ed7919ca6d1779907c658cda059c6c2a0e2f
